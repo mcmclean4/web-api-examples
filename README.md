@@ -8,3 +8,4 @@
     - [Client Credentials](/authorization/client_credentials)
     - [Implicit Grant](/authorization/implicit_grant/)
 - [Get User Profile example](/get_user_profile/)
+
